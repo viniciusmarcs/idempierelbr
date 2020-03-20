@@ -33,6 +33,62 @@
          unpack="false"/>
 
    <plugin
+         id="org.idempierelbr.cnab240-febraban"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         unpack="false"/>
+
+   <plugin
+         id="org.idempierelbr.cnab240-bradesco"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         unpack="false"/>
+
+   <plugin
+         id="org.idempierelbr.cnab240-banrisul"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         unpack="false"/>
+
+   <plugin
+         id="org.idempierelbr.cnab240-bb"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         unpack="false"/>
+
+   <plugin
+         id="org.idempierelbr.cnab240-cef"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         unpack="false"/>
+
+   <plugin
+         id="org.idempierelbr.cnab240-itau"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         unpack="false"/>
+
+   <plugin
+         id="org.idempierelbr.cnab240-santander"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         unpack="false"/>
+
+   <plugin
+         id="org.idempierelbr.cnab240-sicoob"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         unpack="false"/>
+
+   <plugin
          id="org.idempierelbr.jasperfonts"
          download-size="0"
          install-size="0"
@@ -63,21 +119,6 @@
 
    <plugin
          id="org.idempierelbr.tax"
-         download-size="0"
-         install-size="0"
-         version="0.0.0"
-         unpack="false"/>
-
-
-   <plugin
-         id="org.idempierelbr.cnab240-bradesco"
-         download-size="0"
-         install-size="0"
-         version="0.0.0"
-         unpack="false"/>
-
-   <plugin
-         id="org.idempierelbr.cnab240-febraban"
          download-size="0"
          install-size="0"
          version="0.0.0"

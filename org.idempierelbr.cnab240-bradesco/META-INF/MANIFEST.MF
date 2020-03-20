@@ -1,7 +1,7 @@
 Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: Bradesco
-Bundle-SymbolicName: com.todobom.idempierelbr.banking.bradesco
+Bundle-SymbolicName: org.idempierelbr.cnab240-bradesco
 Bundle-Version: 7.1.0.qualifier
 Bundle-Vendor: TODOBOM
 Require-Bundle: org.idempierelbr.cnab240

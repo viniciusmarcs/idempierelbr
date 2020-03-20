@@ -10,16 +10,15 @@ mvn verify -Didempiere.target=org.idempierelbr.p2.targetplatform
 	<packaging>pom</packaging>
 
 	<modules>
-                <module>com.todobom.idempierelbr.banking.bancodobrasil</module>
-		<module>com.todobom.idempierelbr.banking.banrisul</module>
-		<module>com.todobom.idempierelbr.banking.bradesco</module>
-		<module>com.todobom.idempierelbr.banking.caixa</module>
-		<module>com.todobom.idempierelbr.banking.itau</module>
-		<module>com.todobom.idempierelbr.banking.santander</module>
-		<module>com.todobom.idempierelbr.banking.sicoob</module>
 		<module>org.idempierelbr.cnab240</module>
-		<module>org.idempierelbr.cnab240-bradesco</module>
 		<module>org.idempierelbr.cnab240-febraban</module>
+		<module>org.idempierelbr.cnab240-bradesco</module>
+                <module>org.idempierelbr.cnab240-bb</module>
+		<module>org.idempierelbr.cnab240-banrisul</module>
+		<module>org.idempierelbr.cnab240-cef</module>
+		<module>org.idempierelbr.cnab240-itau</module>
+		<module>org.idempierelbr.cnab240-santander</module>
+		<module>org.idempierelbr.cnab240-sicoob</module>
 		<module>org.idempierelbr.core</module>
 		<module>org.idempierelbr.jasperfonts</module>
 		<module>org.idempierelbr.nfe</module>

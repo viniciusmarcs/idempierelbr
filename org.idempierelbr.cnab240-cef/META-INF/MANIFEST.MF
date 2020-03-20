@@ -1,7 +1,7 @@
 Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: Caixa
-Bundle-SymbolicName: com.todobom.idempierelbr.banking.caixa
+Bundle-SymbolicName: org.idempierelbr.cnab240-cef
 Bundle-Version: 7.1.0.qualifier
 Bundle-Vendor: TODOBOM
 Require-Bundle: org.adempiere.base;bundle-version="7.1.0",

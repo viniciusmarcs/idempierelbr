@@ -1,7 +1,7 @@
 Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: Itau
-Bundle-SymbolicName: com.todobom.idempierelbr.banking.itau
+Bundle-SymbolicName: org.idempierelbr.cnab240-itau
 Bundle-Version: 7.1.0.qualifier
 Import-Package: com.ancientprogramming.fixedformat4j.annotation,
  org.idempierelbr.cnab240.annotated,

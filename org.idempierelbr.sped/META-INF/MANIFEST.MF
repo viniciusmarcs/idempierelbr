@@ -24,3 +24,4 @@ Service-Component: OSGI-INF/ProcessFactory.xml,
 Bundle-ClassPath: lib/xstream-1.4.7.jar,
  .
 Bundle-ActivationPolicy: lazy
+Bundle-Vendor: Comunidade iDempiereLBR

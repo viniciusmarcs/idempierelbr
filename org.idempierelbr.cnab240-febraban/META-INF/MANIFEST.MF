@@ -30,3 +30,4 @@ Require-Bundle: org.adempiere.base;bundle-version="7.1.0",
  zul
 Import-Package: org.idempierelbr.cnab240.annotated
 Bundle-ActivationPolicy: lazy
+Bundle-Vendor: Comunidade iDempiereLBR

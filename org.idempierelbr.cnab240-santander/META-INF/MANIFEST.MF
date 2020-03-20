@@ -10,3 +10,4 @@ Require-Bundle: org.idempierelbr.open-items,
 Service-Component: OSGI-INF/BankCollectionFactory.xml
 Bundle-ActivationPolicy: lazy
 Bundle-ClassPath: .
+Bundle-Vendor: Comunidade iDempiereLBR

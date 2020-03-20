@@ -17,3 +17,4 @@ Import-Package: com.ancientprogramming.fixedformat4j.annotation,
 Bundle-ActivationPolicy: lazy
 Service-Component: OSGI-INF/BankCollectionFactory.xml
 Bundle-ClassPath: .
+Bundle-Vendor: Comunidade iDempiereLBR

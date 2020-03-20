@@ -29,3 +29,4 @@ Export-Package: org.idempierelbr.tax.model,
  org.idempierelbr.tax.wrapper
 Bundle-ActivationPolicy: lazy
 Bundle-ClassPath: .
+Bundle-Vendor: Comunidade iDempiereLBR

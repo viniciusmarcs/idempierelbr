@@ -15,3 +15,4 @@ Require-Bundle: org.adempiere.base;bundle-version="7.1.0"
 Service-Component: OSGI-INF/BankCollectionFactory.xml
 Bundle-ActivationPolicy: lazy
 Bundle-ClassPath: .
+Bundle-Vendor: Comunidade iDempiereLBR

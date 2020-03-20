@@ -3,7 +3,7 @@ Bundle-ManifestVersion: 2
 Bundle-Name: iDempiereLBR - NFS-e
 Bundle-SymbolicName: org.idempierelbr.nfs
 Bundle-Version: 7.1.0.qualifier
-Bundle-Vendor: iDempiereLBR
+Bundle-Vendor: Comunidade iDempiereLBR
 Bundle-ClassPath: .
 Require-Bundle: org.adempiere.base,
  org.idempierelbr.core,

@@ -33,3 +33,4 @@ Export-Package: org.idempierelbr.core.model,
  org.idempierelbr.core.util,
  org.idempierelbr.core.wrapper
 Bundle-ActivationPolicy: lazy
+Bundle-Vendor: Comunidade iDempiereLBR

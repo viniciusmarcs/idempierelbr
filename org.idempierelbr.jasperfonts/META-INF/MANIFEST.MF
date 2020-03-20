@@ -5,3 +5,4 @@ Bundle-SymbolicName: org.idempierelbr.jasperfonts
 Bundle-Version: 7.1.0.qualifier
 Fragment-Host: net.sf.jasperreports.engine;bundle-version="6.3.1"
 Bundle-ClassPath: .
+Bundle-Vendor: Comunidade iDempiereLBR

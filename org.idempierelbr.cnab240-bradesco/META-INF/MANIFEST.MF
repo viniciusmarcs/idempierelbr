@@ -14,3 +14,4 @@ Import-Package: org.compiere.model,
 Service-Component: OSGI-INF/BankCollectionFactory.xml
 Bundle-ActivationPolicy: lazy
 Bundle-ClassPath: .
+Bundle-Vendor: Comunidade iDempiereLBR

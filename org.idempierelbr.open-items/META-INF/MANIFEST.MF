@@ -37,3 +37,4 @@ Export-Package: org.idempierelbr.openitems.model,
  org.idempierelbr.openitems.processcnab240,
  org.idempierelbr.openitems.util
 Bundle-ActivationPolicy: lazy
+Bundle-Vendor: Comunidade iDempiereLBR

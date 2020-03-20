@@ -7,6 +7,6 @@
 	<version>7.1.0-SNAPSHOT</version>
 	<relativePath>../../iDempiere7.1/org.idempiere.parent/pom.xml</relativePath>
   </parent>
-  <artifactId>com.todobom.idempierelbr.banking.banrisul</artifactId>
+  <artifactId>org.idempierelbr.cnab240-banrisul</artifactId>
   <packaging>eclipse-plugin</packaging>
 </project>

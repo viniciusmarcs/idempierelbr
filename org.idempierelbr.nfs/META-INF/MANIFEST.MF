@@ -1,6 +1,6 @@
 Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
-Bundle-Name: iDempiereLBR - NFSe
+Bundle-Name: iDempiereLBR - NFS-e
 Bundle-SymbolicName: org.idempierelbr.nfs
 Bundle-Version: 7.1.0.qualifier
 Bundle-Vendor: iDempiereLBR

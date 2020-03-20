@@ -1,9 +1,8 @@
 Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
-Bundle-Name: Banrisul
+Bundle-Name: iDempiereLBR - CNAB 240 - Banrisul
 Bundle-SymbolicName: org.idempierelbr.cnab240-banrisul
 Bundle-Version: 7.1.0.qualifier
-Bundle-Vendor: TODOBOM
 Import-Package: com.ancientprogramming.fixedformat4j.annotation,
  org.compiere.model,
  org.compiere.process,

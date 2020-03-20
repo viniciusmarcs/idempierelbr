@@ -1,9 +1,8 @@
 Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
-Bundle-Name: iDempiereLBR Plugin Banco do Brasil
+Bundle-Name: iDempiereLBR - CNAB 240 - Banco do Brasil
 Bundle-SymbolicName: org.idempierelbr.cnab240-bb
 Bundle-Version: 7.1.0.qualifier
-Bundle-Vendor: todobom.com
 Import-Package: com.ancientprogramming.fixedformat4j.annotation,
  org.adempiere.exceptions,
  org.compiere.model,

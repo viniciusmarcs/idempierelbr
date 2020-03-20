@@ -1,6 +1,6 @@
 Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
-Bundle-Name: iDempiereLBR Open Items
+Bundle-Name: iDempiereLBR - Itens em Aberto
 Bundle-SymbolicName: org.idempierelbr.open-items
 Bundle-Version: 7.1.0.qualifier
 Require-Bundle: org.adempiere.base;bundle-version="7.1.0",

@@ -1,6 +1,6 @@
 Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
-Bundle-Name: Itau
+Bundle-Name: iDempiereLBR - CNAB 240 - Itaú
 Bundle-SymbolicName: org.idempierelbr.cnab240-itau
 Bundle-Version: 7.1.0.qualifier
 Import-Package: com.ancientprogramming.fixedformat4j.annotation,

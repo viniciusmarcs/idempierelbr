@@ -1,9 +1,8 @@
 Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
-Bundle-Name: iDempiereLBR Sped
+Bundle-Name: iDempiereLBR - SPED
 Bundle-SymbolicName: org.idempierelbr.sped
 Bundle-Version: 7.1.0.qualifier
-Bundle-Vendor: claudemir@todobom.com, aomelo@live.com, pblobp@gmail.com
 Import-Package: org.adempiere.base,
  org.adempiere.exceptions,
  org.adempiere.model,

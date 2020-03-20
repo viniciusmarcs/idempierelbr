@@ -1,6 +1,6 @@
 Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
-Bundle-Name: Santander Banking Integration
+Bundle-Name: iDempiereLBR - CNAB 240 - Santander
 Bundle-SymbolicName: org.idempierelbr.cnab240-santander
 Bundle-Version: 7.1.0.qualifier
 Require-Bundle: org.idempierelbr.open-items,

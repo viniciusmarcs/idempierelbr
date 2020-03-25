@@ -14,7 +14,7 @@ import org.compiere.util.CPreparedStatement;
 import org.compiere.util.DB;
 import org.compiere.util.Env;
 import org.idempierelbr.cnab240.annotated.CNABSegmentTRecord;
-import org.idempierelbr.core.util.AdempiereLBR;
+import org.idempierelbr.base.util.AdempiereLBR;
 
 public class MLBRBoletoMovement extends X_LBR_BoletoMovement {
 

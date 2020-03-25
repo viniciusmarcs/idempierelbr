@@ -24,7 +24,7 @@ Export-Package: org.idempierelbr.cnab240febraban,
  org.idempierelbr.cnab240febraban.util,
  org.idempierelbr.cnab240febraban.validador
 Require-Bundle: org.adempiere.base;bundle-version="7.1.0",
- org.idempierelbr.core;bundle-version="7.1.0",
+ org.idempierelbr.base;bundle-version="7.1.0",
  org.idempierelbr.open-items;bundle-version="7.1.0",
  zcommon,
  zul

@@ -6,7 +6,7 @@ Bundle-Version: 7.1.0.qualifier
 Import-Package: com.ancientprogramming.fixedformat4j.annotation,
  org.idempierelbr.cnab240.annotated,
  org.idempierelbr.cnab240.utils,
- org.idempierelbr.core.util,
+ org.idempierelbr.base.util,
  org.idempierelbr.openitems.model,
  org.idempierelbr.openitems.process,
  org.idempierelbr.openitems.processcnab240,

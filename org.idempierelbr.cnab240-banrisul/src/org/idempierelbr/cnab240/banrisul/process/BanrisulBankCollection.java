@@ -3,7 +3,7 @@ package org.idempierelbr.cnab240.banrisul.process;
 import org.compiere.model.PO;
 import org.compiere.process.ProcessCall;
 import org.idempierelbr.cnab240.banrisul.annotated.BanrisulCNABRecords;
-import org.idempierelbr.core.util.TextUtil;
+import org.idempierelbr.base.util.TextUtil;
 import org.idempierelbr.openitems.model.MLBRBoleto;
 import org.idempierelbr.openitems.model.MLBRBoletoMovement;
 import org.idempierelbr.openitems.process.IBankCollection;

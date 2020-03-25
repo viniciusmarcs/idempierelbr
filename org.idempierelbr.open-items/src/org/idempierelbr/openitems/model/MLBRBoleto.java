@@ -32,8 +32,8 @@ import org.compiere.process.DocumentEngine;
 import org.compiere.util.DB;
 import org.compiere.util.Env;
 import org.compiere.util.Msg;
-import org.idempierelbr.core.util.TextUtil;
-import org.idempierelbr.nfe.model.MLBRNotaFiscal;
+import org.idempierelbr.base.util.TextUtil;
+import org.idempierelbr.base.model.MLBRNotaFiscal;
 import org.idempierelbr.openitems.util.OpenItemsUtil;
 
 public class MLBRBoleto extends X_LBR_Boleto implements DocAction, DocOptions {

@@ -12,7 +12,7 @@ import java.util.List;
 
 import org.adempiere.base.Service;
 import org.adempiere.base.ServiceQuery;
-import org.idempierelbr.core.util.TextUtil;
+import org.idempierelbr.base.util.TextUtil;
 import org.idempierelbr.openitems.process.IBankCollection;
 import org.idempierelbr.openitems.process.IBankCollectionFactory;
 

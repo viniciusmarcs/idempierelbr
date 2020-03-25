@@ -5,7 +5,7 @@ import org.compiere.model.PO;
 import org.compiere.process.ProcessCall;
 import org.idempierelbr.cnab240.bb.annotated.BancoDoBrasilCNABHeaderArquivo;
 import org.idempierelbr.cnab240.bb.annotated.BancoDoBrasilCNABRecords;
-import org.idempierelbr.core.util.TextUtil;
+import org.idempierelbr.base.util.TextUtil;
 import org.idempierelbr.openitems.model.MLBRBankAccountCarteira;
 import org.idempierelbr.openitems.model.MLBRBankAccountConvenio;
 import org.idempierelbr.openitems.model.MLBRBoleto;

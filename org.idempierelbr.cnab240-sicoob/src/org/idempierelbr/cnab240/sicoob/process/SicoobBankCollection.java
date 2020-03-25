@@ -8,7 +8,7 @@ import org.compiere.process.ProcessCall;
 import org.idempierelbr.cnab240.sicoob.annotated.SicoobCNABRecords;
 import org.idempierelbr.cnab240.sicoob.annotated.SicoobCNABSegmentP;
 import org.idempierelbr.cnab240.sicoob.annotated.SicoobCNABSegmentR;
-import org.idempierelbr.core.util.TextUtil;
+import org.idempierelbr.base.util.TextUtil;
 import org.idempierelbr.openitems.model.MLBRBankAccountCarteira;
 import org.idempierelbr.openitems.model.MLBRBankAccountConvenio;
 import org.idempierelbr.openitems.model.MLBRBoleto;

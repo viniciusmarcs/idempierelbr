@@ -10,22 +10,19 @@ mvn verify -Didempiere.target=org.idempierelbr.p2.targetplatform
 	<packaging>pom</packaging>
 
 	<modules>
+		<module>org.idempierelbr.base</module>
+		<module>org.idempierelbr.sped</module>
+		<module>org.idempierelbr.jasperfonts</module>
+		<module>org.idempierelbr.open-items</module>
 		<module>org.idempierelbr.cnab240</module>
 		<module>org.idempierelbr.cnab240-febraban</module>
 		<module>org.idempierelbr.cnab240-bradesco</module>
-                <module>org.idempierelbr.cnab240-bb</module>
+		<module>org.idempierelbr.cnab240-bb</module>
 		<module>org.idempierelbr.cnab240-banrisul</module>
 		<module>org.idempierelbr.cnab240-cef</module>
 		<module>org.idempierelbr.cnab240-itau</module>
 		<module>org.idempierelbr.cnab240-santander</module>
 		<module>org.idempierelbr.cnab240-sicoob</module>
-		<module>org.idempierelbr.core</module>
-		<module>org.idempierelbr.jasperfonts</module>
-		<module>org.idempierelbr.nfe</module>
-		<module>org.idempierelbr.nfs</module>
-		<module>org.idempierelbr.open-items</module>
-		<module>org.idempierelbr.sped</module>
-		<module>org.idempierelbr.tax</module>
 		<module>org.idempierelbr-feature</module>
 		<module>org.idempierelbr.p2.targetplatform</module>
 		<module>org.idempierelbr.p2.site</module>

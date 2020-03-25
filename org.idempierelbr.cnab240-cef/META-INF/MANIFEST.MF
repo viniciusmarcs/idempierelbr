@@ -5,7 +5,7 @@ Bundle-SymbolicName: org.idempierelbr.cnab240-cef
 Bundle-Version: 7.1.0.qualifier
 Require-Bundle: org.adempiere.base;bundle-version="7.1.0",
  org.idempierelbr.cnab240;bundle-version="7.1.0",
- org.idempierelbr.core;bundle-version="7.1.0",
+ org.idempierelbr.base;bundle-version="7.1.0",
  org.idempierelbr.open-items;bundle-version="7.1.0"
 Service-Component: OSGI-INF/BankCollectionFactory.xml
 Bundle-ActivationPolicy: lazy

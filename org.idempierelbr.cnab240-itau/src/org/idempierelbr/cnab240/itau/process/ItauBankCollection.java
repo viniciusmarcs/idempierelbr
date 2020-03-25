@@ -6,7 +6,7 @@ import org.idempierelbr.cnab240.annotated.CNABBaseRecord;
 import org.idempierelbr.cnab240.annotated.CNABSegmentBaseRecord;
 import org.idempierelbr.cnab240.itau.annotated.ItauCNABRecords;
 import org.idempierelbr.cnab240.itau.annotated.ItauCNABSegmentP;
-import org.idempierelbr.core.util.TextUtil;
+import org.idempierelbr.base.util.TextUtil;
 import org.idempierelbr.openitems.model.MLBRBoleto;
 import org.idempierelbr.openitems.model.MLBRBoletoMovement;
 import org.idempierelbr.openitems.process.IBankCollection;

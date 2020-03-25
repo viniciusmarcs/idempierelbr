@@ -4,11 +4,10 @@ Bundle-Name: iDempiereLBR - Itens em Aberto
 Bundle-SymbolicName: org.idempierelbr.open-items
 Bundle-Version: 7.1.0.qualifier
 Require-Bundle: org.adempiere.base;bundle-version="7.1.0",
- org.idempierelbr.core;bundle-version="7.1.0",
+ org.idempierelbr.base;bundle-version="7.1.0",
  org.adempiere.ui;bundle-version="7.1.0",
  org.adempiere.report.jasper;bundle-version="7.1.0",
  org.idempierelbr.cnab240;bundle-version="7.1.0",
- org.idempierelbr.nfe;bundle-version="7.1.0",
  net.sf.jasperreports.engine;bundle-version="6.3.1",
  zcommon,
  zel,

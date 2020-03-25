@@ -6,7 +6,7 @@ import java.util.Properties;
 import org.compiere.model.MDocType;
 import org.compiere.model.MInvoicePaySchedule;
 import org.compiere.util.Env;
-import org.idempierelbr.core.util.AdempiereLBR;
+import org.idempierelbr.base.util.AdempiereLBR;
 
 public class MLBRBoletoDetails extends X_LBR_BoletoDetails {
 

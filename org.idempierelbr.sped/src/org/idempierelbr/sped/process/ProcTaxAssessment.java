@@ -11,7 +11,7 @@ import org.compiere.util.DB;
 import org.compiere.util.Env;
 import org.idempierelbr.sped.model.MLBRFactFiscal;
 import org.idempierelbr.sped.model.X_LBR_TaxAssessment;
-import org.idempierelbr.tax.model.MLBRTaxName;
+import org.idempierelbr.base.model.MLBRTaxName;
 
 
 /**

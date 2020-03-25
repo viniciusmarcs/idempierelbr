@@ -3,7 +3,7 @@ package org.idempierelbr.cnab240.sicoob.annotated;
 import java.util.Date;
 
 import org.idempierelbr.cnab240.annotated.CNABSegmentPRecord;
-import org.idempierelbr.core.util.TextUtil;
+import org.idempierelbr.base.util.TextUtil;
 import org.idempierelbr.openitems.util.OpenItemsUtil;
 
 import com.ancientprogramming.fixedformat4j.annotation.Align;

@@ -1,0 +1,21 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: iDempiereLBR - Process
+Bundle-SymbolicName: org.idempierelbr.base.process
+Bundle-Version: 7.1.0.qualifier
+Bundle-RequiredExecutionEnvironment: JavaSE-11
+Bundle-ActivationPolicy: lazy
+Bundle-ClassPath: .
+Service-Component: OSGI-INF/ProcessFactory.xml
+Bundle-Vendor: Comunidade iDempiereLBR
+Require-Bundle: org.adempiere.base.process,
+ net.sf.jasperreports.engine;bundle-version="6.3.1",
+ org.idempierelbr.base,
+ zcommon,
+ org.adempiere.base
+Import-Package: org.adempiere.report.jasper,
+ org.apache.commons.io;version="2.2.0",
+ org.apache.commons.logging;version="1.1.1",
+ org.apache.tools.ant,
+ org.apache.tools.ant.taskdefs,
+ org.apache.xerces.jaxp

@@ -4,7 +4,7 @@ Bundle-Name: iDempiereLBR - CNAB 240 - Santander
 Bundle-SymbolicName: org.idempierelbr.cnab240-santander
 Bundle-Version: 7.1.0.qualifier
 Require-Bundle: org.idempierelbr.open-items,
- org.idempierelbr.core,
+ org.idempierelbr.base,
  org.idempierelbr.cnab240,
  org.adempiere.base
 Service-Component: OSGI-INF/BankCollectionFactory.xml

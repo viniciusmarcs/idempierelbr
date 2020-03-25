@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: iDempiereLBR - Callout
+Bundle-SymbolicName: org.idempierelbr.base.callout
+Bundle-Version: 7.1.0.qualifier
+Bundle-RequiredExecutionEnvironment: JavaSE-11
+Bundle-ActivationPolicy: lazy
+Bundle-ClassPath: .
+Service-Component: OSGI-INF/CalloutFactory.xml
+Bundle-Vendor: Comunidade iDempiereLBR
+Require-Bundle: org.idempierelbr.base;bundle-version="7.1.0",
+ org.adempiere.base
